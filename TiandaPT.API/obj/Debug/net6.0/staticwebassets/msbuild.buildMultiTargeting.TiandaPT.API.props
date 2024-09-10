@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TiandaPT.API.props" />
+</Project>

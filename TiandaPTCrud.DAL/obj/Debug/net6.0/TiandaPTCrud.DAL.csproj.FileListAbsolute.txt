@@ -1,0 +1,17 @@
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DAL\bin\Debug\net6.0\TiandaPTCrud.DAL.deps.json
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DAL\bin\Debug\net6.0\TiandaPTCrud.DAL.runtimeconfig.json
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DAL\bin\Debug\net6.0\TiandaPTCrud.DAL.dll
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DAL\bin\Debug\net6.0\TiandaPTCrud.DAL.pdb
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DAL\obj\Debug\net6.0\TiandaPTCrud.DAL.csproj.AssemblyReference.cache
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DAL\obj\Debug\net6.0\TiandaPTCrud.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DAL\obj\Debug\net6.0\TiandaPTCrud.DAL.AssemblyInfoInputs.cache
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DAL\obj\Debug\net6.0\TiandaPTCrud.DAL.AssemblyInfo.cs
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DAL\obj\Debug\net6.0\TiandaPTCrud.DAL.csproj.CoreCompileInputs.cache
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DAL\obj\Debug\net6.0\TiandaPTCrud.DAL.dll
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DAL\obj\Debug\net6.0\refint\TiandaPTCrud.DAL.dll
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DAL\obj\Debug\net6.0\TiandaPTCrud.DAL.pdb
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DAL\obj\Debug\net6.0\TiandaPTCrud.DAL.genruntimeconfig.cache
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DAL\obj\Debug\net6.0\ref\TiandaPTCrud.DAL.dll
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DAL\bin\Debug\net6.0\TiandaPTCrud.Models.dll
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DAL\bin\Debug\net6.0\TiandaPTCrud.Models.pdb
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DAL\obj\Debug\net6.0\TiandaPTCrud.DAL.csproj.CopyComplete

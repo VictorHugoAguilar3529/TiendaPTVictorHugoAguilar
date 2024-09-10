@@ -1,0 +1,11 @@
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud\bin\Debug\net6.0\TiandaPTCrud.Models.deps.json
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud\bin\Debug\net6.0\TiandaPTCrud.Models.dll
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud\bin\Debug\net6.0\TiandaPTCrud.Models.pdb
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud\obj\Debug\net6.0\TiandaPTCrud.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud\obj\Debug\net6.0\TiandaPTCrud.Models.AssemblyInfoInputs.cache
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud\obj\Debug\net6.0\TiandaPTCrud.Models.AssemblyInfo.cs
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud\obj\Debug\net6.0\TiandaPTCrud.Models.csproj.CoreCompileInputs.cache
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud\obj\Debug\net6.0\TiandaPTCrud.Models.dll
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud\obj\Debug\net6.0\refint\TiandaPTCrud.Models.dll
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud\obj\Debug\net6.0\TiandaPTCrud.Models.pdb
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud\obj\Debug\net6.0\ref\TiandaPTCrud.Models.dll

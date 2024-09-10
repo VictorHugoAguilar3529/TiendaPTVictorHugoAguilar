@@ -1,0 +1,11 @@
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DTO\bin\Debug\net6.0\TiandaPTCrud.DTO.deps.json
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DTO\bin\Debug\net6.0\TiandaPTCrud.DTO.dll
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DTO\bin\Debug\net6.0\TiandaPTCrud.DTO.pdb
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DTO\obj\Debug\net6.0\TiandaPTCrud.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DTO\obj\Debug\net6.0\TiandaPTCrud.DTO.AssemblyInfoInputs.cache
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DTO\obj\Debug\net6.0\TiandaPTCrud.DTO.AssemblyInfo.cs
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DTO\obj\Debug\net6.0\TiandaPTCrud.DTO.csproj.CoreCompileInputs.cache
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DTO\obj\Debug\net6.0\TiandaPTCrud.DTO.dll
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DTO\obj\Debug\net6.0\refint\TiandaPTCrud.DTO.dll
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DTO\obj\Debug\net6.0\TiandaPTCrud.DTO.pdb
+C:\Users\aguil\source\MisDocumentos\TiandaPTVictorHugoAguilar\TiandaPTCrud.DTO\obj\Debug\net6.0\ref\TiandaPTCrud.DTO.dll
